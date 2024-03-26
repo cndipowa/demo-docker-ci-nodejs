@@ -7,7 +7,7 @@
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.19.2",
     "jade": "1.11.0",
     "mocha": "6.2.0",
     "supertest": "4.0.2"
